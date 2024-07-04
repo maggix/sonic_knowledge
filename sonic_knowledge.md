@@ -1,9 +1,9 @@
 # Sonic
 
-Name: Maurice "Sonic" Takeshi Hedgehog
-Age: 16
-Species: Hedgehog
-Place of residence: Knothole Village / Floating Island
+* Name: Maurice "Sonic" Takeshi Hedgehog
+* Age: 16
+* Species: Hedgehog
+* Place of residence: Knothole Village / Floating Island
 
 Impulsive, how else do you want a character who runs at supersonic speed to be? =) Thanks to this "innate gift" of his, he knows how to get into trouble with extreme ease, from which he always manages to get out, both thanks to his skills and thanks to his faithful friends. Loyal and courageous, he nevertheless rightly remains the leader of the "good guys". Sonic's story is not at all defined, first of all because there are various versions of it:
 Sonic from the video games, American Sonic from the cartoons (basically Sonic from Archie Comics) and Sonic from the anime.
@@ -16,10 +16,10 @@ His date of birth is 23 June 1991, release date of the first Sonic game.
 
 # Tails
 
-Full Name: Miles "Tails" Prower
-Male
-Species: Fox (with two tails)
-Residence: Knothole Village / Floating Island
+* Full Name: Miles "Tails" Prower
+* Male
+* Species: Fox (with two tails)
+* Residence: Knothole Village / Floating Island
 
 Tails "suffers" from the same problems that afflict Sonic: he does not have a universally accepted history. In Adventures Of Sonic The Hedgehog, Tails joins the Freedom Fighters group because he was abandoned by Sonic when he was little, and since then he has grown up admiring the exploits of his older friend, trying to emulate him.
 This characteristic of his character, i.e. the continuous search to resemble Sonic, also characterizes his Japanese counterpart, and as always he does not realize that he has other potentials, equally useful in his adventures.
@@ -29,10 +29,10 @@ His great main ability is to fly using his two tails as propellers, and the "fli
 
 # Knuckles
 
-Name: Knuckles The Echidna
-Age: 17
-Species: Echidna
-Residence: Angel Island
+* Name: Knuckles The Echidna
+* Age: 17
+* Species: Echidna
+* Residence: Angel Island
 
 Here is the "hard" part of the series: Knuckles, especially with Sonic Adventure, positioned himself as the character who doesn't look at anyone and follows his ideals and his destiny. Born on Angel Island, he is the guardian of the Master Emerald, the destiny of his entire species. Knuckles has no choice: he can only continue to save him from the clutches of those who threaten the peace of his island, and for this reason he will not hesitate to go against Sonic on several occasions (Sonic 3/Sonic 3 & Knuckles, Sonic Adventure) only to then understand the his mistake and fighting alongside the blue hedgehog, although he has never appreciated it and indeed is often reluctant to join forces.
 He takes his destiny as a guardian very seriously, even if this seriousness is not compensated by record patience: more ready to fight than to argue, Knuckles offers a good variety of moves in his arsenal, and in each series he is presented like what he is, therefore there are no various versions of his life, although his family tree was later enriched with his father (Locke Echidna) and mother (Lara-Le Echidna).
@@ -42,11 +42,11 @@ In Knuckles's Chaotix, the echidna became the protagonist of a video game in whi
 
 # Dr. Eggman
 
-Name: Dr. Eggman (Ivo Julian - Doctor Robotnik)
-Age: Unknown
-Year of birth: unknown
-Species: Human
-Place of residence: Robotropolis
+* Name: Dr. Eggman (Ivo Julian - Doctor Robotnik)
+* Age: Unknown
+* Year of birth: unknown
+* Species: Human
+* Place of residence: Robotropolis
 
 Robotnik (Eggman in Japan) is well known as Sonic's number 1 enemy, and needs no introduction: since Sonic 1 he and his machines have been trying to defeat the blue hedgehog and his friends, and then controlling the world.
 Despite years of defeats, he has always returned to battle and has practically never missed the call.
@@ -57,11 +57,10 @@ Robotnik is extremely disloyal and cruel, seems to have no heart, and mercilessl
 
 # Amy
 
-Full Name: Amy Rose
-Female
-Species: Hedgehog
-
-Place of residence: unknown
+* Full Name: Amy Rose
+* Female
+* Species: Hedgehog
+* Place of residence: unknown
 
 Amy's origins are to be found in Sonic CD, and although her story is not explained, her origin has something to do with "Little Planet", or the small planet that appears only in certain periods of the year in which the story behind Sonic CD takes place. After being captured by Robotnik with the help of Metal Sonic and later freed by Sonic, with whom she fell in love (even though Sonic apparently has no intention of reciprocating).
 Her weapons are not well defined, she seems to have hidden magical powers, and the rubber hammer that leaves little hearts when she hits her may be an example of this.
